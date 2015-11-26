@@ -1,12 +1,10 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:53:30.248962
-#+TITLE: 華嚴略疏卷第三
-#+PROPERTY: CBETA_ID T85n2754
-#+PROPERTY: ID KR6e0007
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2754
-#+PROPERTY: VOL 85
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6e0007_T_000-0207c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 華嚴略疏卷第三 / CBETA
+#+DATE: 2015-11-26 14:09:08.030980
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
 
-[[file:KR6e0007_003.txt::003-0207c28][十地品初記]]
+* 目次
+* [[file:KR6e0007_003.txt::003-0207c28][十地品初記]]
+* 卷
+** [[file:KR6e0007_003.txt][華嚴略疏卷第三 3]]
